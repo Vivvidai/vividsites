@@ -1,0 +1,500 @@
+{
+  "source": "https://www.vividsites.app",
+  "count": 30,
+  "prompts": [
+    {
+      "slug": "blockhaus",
+      "title": "Blockhaus",
+      "kind": "Landing Page",
+      "category": "Interactive 3D Studio",
+      "stack": [
+        "HTML",
+        "Three.js",
+        "Live Toy Physics"
+      ],
+      "description": "A 3D studio site that opens on a live physics pile of 62 glossy toy blocks. Your cursor shoves them, a click bursts them apart, a paper ribbon draws across the page, a showreel grows to full window, and the toys stack into a little house that floods orange into the footer.",
+      "prompt": "prompts/landing-pages/blockhaus/prompt.md",
+      "preview": "assets/previews/blockhaus.webp",
+      "page": "https://www.vividsites.app/t/blockhaus",
+      "live": "https://www.vividsites.app/api/preview/blockhaus/index.html",
+      "chars": 117866
+    },
+    {
+      "slug": "orrery",
+      "title": "Orrery",
+      "kind": "Landing Page",
+      "category": "Observatory",
+      "stack": [
+        "HTML",
+        "WebGL2",
+        "Particles"
+      ],
+      "description": "A landing page for an amateur observatory, with ninety thousand bodies on real Kepler orbits rendered in WebGL2 behind the whole page.",
+      "prompt": "prompts/landing-pages/orrery/prompt.md",
+      "preview": "assets/previews/orrery.webp",
+      "page": "https://www.vividsites.app/t/orrery",
+      "live": "https://www.vividsites.app/api/preview/orrery/index.html",
+      "chars": 8343
+    },
+    {
+      "slug": "brandnewday",
+      "title": "Brand New Day",
+      "kind": "Landing Page",
+      "category": "Scroll Film",
+      "stack": [
+        "React",
+        "Three.js",
+        "Scroll Film"
+      ],
+      "description": "A six-act scroll film with no sections: one sticky React Three Fiber stage, and the scroll flies the camera through a 2200vh track.",
+      "prompt": "prompts/landing-pages/brandnewday/prompt.md",
+      "preview": "assets/previews/brandnewday.webp",
+      "page": "https://www.vividsites.app/t/brandnewday",
+      "live": null,
+      "chars": 10046
+    },
+    {
+      "slug": "graven",
+      "title": "Graven",
+      "kind": "Landing Page",
+      "category": "Blueprint Sheet",
+      "stack": [
+        "React",
+        "Tailwind",
+        "Scroll"
+      ],
+      "description": "A scroll-scrubbed blueprint sheet. The scrubbed film of a concept car is the hero.",
+      "prompt": "prompts/landing-pages/graven/prompt.md",
+      "preview": "assets/previews/graven.webp",
+      "page": "https://www.vividsites.app/t/graven",
+      "live": null,
+      "chars": 11409
+    },
+    {
+      "slug": "ascent",
+      "title": "Ascent",
+      "kind": "Landing Page",
+      "category": "Alpine",
+      "stack": [
+        "HTML",
+        "CSS",
+        "Scroll-Scrub"
+      ],
+      "description": "A scroll-scrubbed page for alpine equipment. Six hundred metres of rock play as you scroll.",
+      "prompt": "prompts/landing-pages/ascent/prompt.md",
+      "preview": "assets/previews/ascent.webp",
+      "page": "https://www.vividsites.app/t/ascent",
+      "live": "https://www.vividsites.app/api/preview/ascent/index.html",
+      "chars": 3441
+    },
+    {
+      "slug": "chalk",
+      "title": "Chalk",
+      "kind": "Landing Page",
+      "category": "Strength",
+      "stack": [
+        "HTML",
+        "CSS",
+        "Scroll-Scrub"
+      ],
+      "description": "A scroll-scrubbed page for a strength brand: one lifter, one breath, before the lift.",
+      "prompt": "prompts/landing-pages/chalk/prompt.md",
+      "preview": "assets/previews/chalk.webp",
+      "page": "https://www.vividsites.app/t/chalk",
+      "live": null,
+      "chars": 3418
+    },
+    {
+      "slug": "prisma",
+      "title": "Prisma",
+      "kind": "Landing Page",
+      "category": "Creative Collective",
+      "stack": [
+        "HTML",
+        "CSS",
+        "Scroll"
+      ],
+      "description": "A multi-screen site for a creative collective, opening on an island above the clouds.",
+      "prompt": "prompts/landing-pages/prisma/prompt.md",
+      "preview": "assets/previews/prisma.webp",
+      "page": "https://www.vividsites.app/t/prisma",
+      "live": null,
+      "chars": 5287
+    },
+    {
+      "slug": "deepfield",
+      "title": "Deepfield",
+      "kind": "Hero Section",
+      "category": "Creative Studio",
+      "stack": [
+        "HTML",
+        "CSS",
+        "One Screen"
+      ],
+      "description": "A one-screen studio site over a flooded stone chamber with a light shaft and drifting fish. The type stays at the edges and the middle is left alone.",
+      "prompt": "prompts/hero-sections/deepfield/prompt.md",
+      "preview": "assets/previews/deepfield.webp",
+      "page": "https://www.vividsites.app/t/deepfield",
+      "live": null,
+      "chars": 5980
+    },
+    {
+      "slug": "solstice",
+      "title": "Solstice",
+      "kind": "Hero Section",
+      "category": "Light Therapy Lamp",
+      "stack": [
+        "HTML",
+        "WebGL2",
+        "Halo Optics"
+      ],
+      "description": "A one-screen hero for a light-therapy lamp, with real arctic halo optics rendered in raw WebGL2 behind a light poster.",
+      "prompt": "prompts/hero-sections/solstice/prompt.md",
+      "preview": "assets/previews/solstice.webp",
+      "page": "https://www.vividsites.app/t/solstice",
+      "live": null,
+      "chars": 4801
+    },
+    {
+      "slug": "koi",
+      "title": "Koi Garden",
+      "kind": "Hero Section",
+      "category": "Teahouse",
+      "stack": [
+        "React",
+        "Tailwind"
+      ],
+      "description": "A Japanese teahouse hero where rain writes rings on black water.",
+      "prompt": "prompts/hero-sections/koi/prompt.md",
+      "preview": "assets/previews/koi.webp",
+      "page": "https://www.vividsites.app/t/koi",
+      "live": null,
+      "chars": 5276
+    },
+    {
+      "slug": "hourglass",
+      "title": "Hourglass",
+      "kind": "Hero Section",
+      "category": "Planetarium",
+      "stack": [
+        "React",
+        "Tailwind"
+      ],
+      "description": "A planetarium hero with a galaxy pouring through an hourglass.",
+      "prompt": "prompts/hero-sections/hourglass/prompt.md",
+      "preview": "assets/previews/hourglass.webp",
+      "page": "https://www.vividsites.app/t/hourglass",
+      "live": null,
+      "chars": 8424
+    },
+    {
+      "slug": "plume",
+      "title": "Plume",
+      "kind": "Hero Section",
+      "category": "Paperie",
+      "stack": [
+        "React",
+        "Tailwind"
+      ],
+      "description": "A fine-stationery hero with a single feather drifting in warm light.",
+      "prompt": "prompts/hero-sections/plume/prompt.md",
+      "preview": "assets/previews/plume.webp",
+      "page": "https://www.vividsites.app/t/plume",
+      "live": null,
+      "chars": 8380
+    },
+    {
+      "slug": "sonor",
+      "title": "Sonor",
+      "kind": "Hero Section",
+      "category": "Audio Lab",
+      "stack": [
+        "React",
+        "Tailwind"
+      ],
+      "description": "An audio-lab hero over a macro of a speaker coil.",
+      "prompt": "prompts/hero-sections/sonor/prompt.md",
+      "preview": "assets/previews/sonor.webp",
+      "page": "https://www.vividsites.app/t/sonor",
+      "live": null,
+      "chars": 6619
+    },
+    {
+      "slug": "verdant",
+      "title": "Verdant",
+      "kind": "Hero Section",
+      "category": "Overgrown Metro",
+      "stack": [
+        "React",
+        "Tailwind"
+      ],
+      "description": "A hero for an overgrown metro where nature runs on time.",
+      "prompt": "prompts/hero-sections/verdant/prompt.md",
+      "preview": "assets/previews/verdant.webp",
+      "page": "https://www.vividsites.app/t/verdant",
+      "live": null,
+      "chars": 6713
+    },
+    {
+      "slug": "sub2",
+      "title": "Sub2",
+      "kind": "Hero Section",
+      "category": "Race Campaign",
+      "stack": [
+        "React",
+        "Tailwind"
+      ],
+      "description": "A race-campaign hero for a sub-two marathon attempt: Break the wall.",
+      "prompt": "prompts/hero-sections/sub2/prompt.md",
+      "preview": "assets/previews/sub2.webp",
+      "page": "https://www.vividsites.app/t/sub2",
+      "live": null,
+      "chars": 6405
+    },
+    {
+      "slug": "knead",
+      "title": "Knead",
+      "kind": "Hero Section",
+      "category": "Bakehouse",
+      "stack": [
+        "React",
+        "Tailwind"
+      ],
+      "description": "A bakehouse hero of hands working dough: flour, water, patience.",
+      "prompt": "prompts/hero-sections/knead/prompt.md",
+      "preview": "assets/previews/knead.webp",
+      "page": "https://www.vividsites.app/t/knead",
+      "live": null,
+      "chars": 6261
+    },
+    {
+      "slug": "cinematic",
+      "title": "Cinematic Hero",
+      "kind": "Hero Section",
+      "category": "Movie / Streaming",
+      "stack": [
+        "React",
+        "Tailwind",
+        "Lucide"
+      ],
+      "description": "A full-viewport movie and streaming hero: monolith peaks against a red sky, built in React, Tailwind and Lucide.",
+      "prompt": "prompts/hero-sections/cinematic/prompt.md",
+      "preview": "assets/previews/cinematic.webp",
+      "page": "https://www.vividsites.app/t/cinematic",
+      "live": null,
+      "chars": 6605
+    },
+    {
+      "slug": "frost",
+      "title": "Frost",
+      "kind": "Hero Section",
+      "category": "Cold Brew",
+      "stack": [
+        "HTML",
+        "CSS"
+      ],
+      "description": "A hero for canned cold brew, over a macro of condensation beading on cold metal.",
+      "prompt": "prompts/hero-sections/frost/prompt.md",
+      "preview": "assets/previews/frost.webp",
+      "page": "https://www.vividsites.app/t/frost",
+      "live": null,
+      "chars": 3437
+    },
+    {
+      "slug": "stillwater",
+      "title": "Stillwater",
+      "kind": "Hero Section",
+      "category": "Deep Work",
+      "stack": [
+        "React",
+        "Tailwind"
+      ],
+      "description": "An editorial hero for a deep-work platform, over a calm crater lake.",
+      "prompt": "prompts/hero-sections/stillwater/prompt.md",
+      "preview": "assets/previews/stillwater.webp",
+      "page": "https://www.vividsites.app/t/stillwater",
+      "live": null,
+      "chars": 6321
+    },
+    {
+      "slug": "rove",
+      "title": "Rove",
+      "kind": "Hero Section",
+      "category": "Travel AI",
+      "stack": [
+        "React",
+        "Tailwind"
+      ],
+      "description": "A single-screen hero for an AI trip planner, with an illustrated landscape and a prompt box.",
+      "prompt": "prompts/hero-sections/rove/prompt.md",
+      "preview": "assets/previews/rove.webp",
+      "page": "https://www.vividsites.app/t/rove",
+      "live": null,
+      "chars": 7748
+    },
+    {
+      "slug": "ascend",
+      "title": "Ascend",
+      "kind": "Hero Section",
+      "category": "Mindfulness",
+      "stack": [
+        "React",
+        "Tailwind"
+      ],
+      "description": "A mindfulness hero where two halftone hands reach toward each other behind the headline.",
+      "prompt": "prompts/hero-sections/ascend/prompt.md",
+      "preview": "assets/previews/ascend.webp",
+      "page": "https://www.vividsites.app/t/ascend",
+      "live": null,
+      "chars": 7942
+    },
+    {
+      "slug": "haven",
+      "title": "Haven",
+      "kind": "Hero Section",
+      "category": "Wellness AI",
+      "stack": [
+        "React",
+        "Tailwind"
+      ],
+      "description": "A wellness AI hero over a misty lake at first light.",
+      "prompt": "prompts/hero-sections/haven/prompt.md",
+      "preview": "assets/previews/haven.webp",
+      "page": "https://www.vividsites.app/t/haven",
+      "live": null,
+      "chars": 5214
+    },
+    {
+      "slug": "terra",
+      "title": "Terra",
+      "kind": "Hero Section",
+      "category": "Wellness",
+      "stack": [
+        "React",
+        "Tailwind"
+      ],
+      "description": "A wellness hero where a ripple rings out across dark green water.",
+      "prompt": "prompts/hero-sections/terra/prompt.md",
+      "preview": "assets/previews/terra.webp",
+      "page": "https://www.vividsites.app/t/terra",
+      "live": null,
+      "chars": 5018
+    },
+    {
+      "slug": "drift",
+      "title": "Drift",
+      "kind": "Hero Section",
+      "category": "Travel",
+      "stack": [
+        "React",
+        "Tailwind"
+      ],
+      "description": "A travel hero over islands at sunset, with the copy anchored lower-left.",
+      "prompt": "prompts/hero-sections/drift/prompt.md",
+      "preview": "assets/previews/drift.webp",
+      "page": "https://www.vividsites.app/t/drift",
+      "live": null,
+      "chars": 6554
+    },
+    {
+      "slug": "flux",
+      "title": "Flux",
+      "kind": "Hero Section",
+      "category": "Creative Studio",
+      "stack": [
+        "React",
+        "Tailwind"
+      ],
+      "description": "A creative-studio hero on pure white, with flowing silk moving behind the headline.",
+      "prompt": "prompts/hero-sections/flux/prompt.md",
+      "preview": "assets/previews/flux.webp",
+      "page": "https://www.vividsites.app/t/flux",
+      "live": null,
+      "chars": 6475
+    },
+    {
+      "slug": "helio",
+      "title": "Helio",
+      "kind": "Hero Section",
+      "category": "Solar Energy",
+      "stack": [
+        "React",
+        "Tailwind"
+      ],
+      "description": "A solar-energy hero over a field of panels that runs to the horizon.",
+      "prompt": "prompts/hero-sections/helio/prompt.md",
+      "preview": "assets/previews/helio.webp",
+      "page": "https://www.vividsites.app/t/helio",
+      "live": null,
+      "chars": 6134
+    },
+    {
+      "slug": "strato",
+      "title": "Strato",
+      "kind": "3D Section",
+      "category": "Sneaker Drop",
+      "stack": [
+        "React",
+        "Tailwind",
+        "Cursor"
+      ],
+      "description": "A sneaker drop. The shoe floats centre-stage and spins with your cursor between stacked outline type.",
+      "prompt": "prompts/3d-and-interactive/strato/prompt.md",
+      "preview": "assets/previews/strato.webp",
+      "page": "https://www.vividsites.app/t/strato",
+      "live": null,
+      "chars": 8604
+    },
+    {
+      "slug": "morpho",
+      "title": "Morpho",
+      "kind": "3D Section",
+      "category": "Field Journal",
+      "stack": [
+        "React",
+        "Tailwind",
+        "Cursor"
+      ],
+      "description": "A field-journal piece where the iridescence and tilt of a morpho wing follow your cursor.",
+      "prompt": "prompts/3d-and-interactive/morpho/prompt.md",
+      "preview": "assets/previews/morpho.webp",
+      "page": "https://www.vividsites.app/t/morpho",
+      "live": null,
+      "chars": 9183
+    },
+    {
+      "slug": "lattice",
+      "title": "Lattice",
+      "kind": "3D Section",
+      "category": "Perspective Grid",
+      "stack": [
+        "HTML",
+        "WebGL2",
+        "Shader"
+      ],
+      "description": "A drop-in WebGL perspective grid. The cursor ring travels along the plane instead of sliding over it.",
+      "prompt": "prompts/3d-and-interactive/lattice/prompt.md",
+      "preview": "assets/previews/lattice.webp",
+      "page": "https://www.vividsites.app/t/lattice",
+      "live": null,
+      "chars": 11607
+    },
+    {
+      "slug": "halftone",
+      "title": "Halftone",
+      "kind": "3D Section",
+      "category": "Print Screen",
+      "stack": [
+        "HTML",
+        "WebGL2",
+        "Shader"
+      ],
+      "description": "A drop-in WebGL halftone screen. The cursor pools ink: tone rises toward it and the dots swell into solid.",
+      "prompt": "prompts/3d-and-interactive/halftone/prompt.md",
+      "preview": "assets/previews/halftone.webp",
+      "page": "https://www.vividsites.app/t/halftone",
+      "live": null,
+      "chars": 12219
+    }
+  ]
+}
