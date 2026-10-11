@@ -11,7 +11,7 @@ Every one is free, and every preview below is a screen recording of the real bui
 [![Prompts](https://img.shields.io/badge/free_prompts-30-ff5a1f?style=flat-square)](#landing-pages)
 [![Full library](https://img.shields.io/badge/full_library-302-111?style=flat-square)](https://www.vividsites.app/pricing?utm_source=github&utm_medium=free-prompts&utm_campaign=pro)
 [![vividsites Pro](https://img.shields.io/badge/vividsites-Pro-ffffff?style=flat-square&labelColor=111)](https://www.vividsites.app/pricing?utm_source=github&utm_medium=free-prompts&utm_campaign=pro)
-[![Star](https://img.shields.io/github/stars/micahc123/free-website-prompts?style=flat-square&label=star%20it&color=111)](https://github.com/micahc123/free-website-prompts)
+[![Star](https://img.shields.io/github/stars/Vivvidai/vividsites?style=flat-square&label=star%20it&color=111)](https://github.com/Vivvidai/vividsites)
 
 [**Browse all 302 on vividsites →**](https://www.vividsites.app/?utm_source=github&utm_medium=free-prompts&utm_campaign=hero)
 
