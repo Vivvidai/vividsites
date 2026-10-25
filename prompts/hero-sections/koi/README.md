@@ -18,6 +18,6 @@ The prompt is about 5k characters. It is long because it pins the type, timing a
 
 ---
 
-This is one of 30 free prompts. **[vividsites Pro](https://www.vividsites.app/pricing?utm_source=github&utm_medium=free-prompts&utm_campaign=pro)** unlocks the other 272.
+This is one of 31 free prompts. **[vividsites Pro](https://www.vividsites.app/pricing?utm_source=github&utm_medium=free-prompts&utm_campaign=pro)** unlocks the other 299.
 
 [← All free prompts](../../../README.md)

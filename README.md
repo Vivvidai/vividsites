@@ -4,16 +4,16 @@
 
 # Free Website Prompts
 
-**30 build prompts for animated, cinematic websites. Paste one into Claude Code, Cursor or Codex and you get the site.**
+**31 build prompts for animated, cinematic websites. Paste one into Claude Code, Cursor or Codex and you get the site.**
 
 Every one is free, and every preview below is a screen recording of the real build.
 
-[![Prompts](https://img.shields.io/badge/free_prompts-30-ff5a1f?style=flat-square)](#landing-pages)
-[![Full library](https://img.shields.io/badge/full_library-302-111?style=flat-square)](https://www.vividsites.app/pricing?utm_source=github&utm_medium=free-prompts&utm_campaign=pro)
+[![Prompts](https://img.shields.io/badge/free_prompts-31-ff5a1f?style=flat-square)](#landing-pages)
+[![Full library](https://img.shields.io/badge/full_library-329-111?style=flat-square)](https://www.vividsites.app/pricing?utm_source=github&utm_medium=free-prompts&utm_campaign=pro)
 [![vividsites Pro](https://img.shields.io/badge/vividsites-Pro-ff5a1f?style=flat-square&labelColor=111)](https://www.vividsites.app/pricing?utm_source=github&utm_medium=free-prompts&utm_campaign=pro)
 [![Star](https://img.shields.io/github/stars/Vivvidai/vividsites?style=flat-square&label=star%20it&color=111)](https://github.com/Vivvidai/vividsites)
 
-[**Browse all 302 on vividsites →**](https://www.vividsites.app/?utm_source=github&utm_medium=free-prompts&utm_campaign=hero)
+[**Browse all 329 on vividsites →**](https://www.vividsites.app/?utm_source=github&utm_medium=free-prompts&utm_campaign=hero)
 
 </div>
 
@@ -248,7 +248,7 @@ Single pieces driven by the cursor, plus drop-in WebGL backgrounds.
 
 ### [vividsites Pro →](https://www.vividsites.app/pricing?utm_source=github&utm_medium=free-prompts&utm_campaign=pro)
 
-These 30 are the free shelf. The full library has **302 sites**: long-scroll three.js films, generated 3D products, scroll-scrubbed fly-throughs, and the newest builds the week they ship. Every one is a single prompt like the ones here.
+These 31 are the free shelf. The full library has **329 sites**: long-scroll three.js films, generated 3D products, scroll-scrubbed fly-throughs, and the newest builds the week they ship. Every one is a single prompt like the ones here.
 
 **[Unlock the full library →](https://www.vividsites.app/pricing?utm_source=github&utm_medium=free-prompts&utm_campaign=pro)**
 
@@ -267,6 +267,7 @@ These 30 are the free shelf. The full library has **302 sites**: long-scroll thr
 
 | Site | Type | Theme | Stack | |
 |---|---|---|---|---|
+| [Foldworld](prompts/landing-pages/foldworld) | Template | Pop-Up Portfolio | HTML, Three.js, Extruded Paper Props | [prompt](prompts/landing-pages/foldworld/prompt.md) |
 | [Blockhaus](prompts/landing-pages/blockhaus) | Landing Page | Interactive 3D Studio | HTML, Three.js, Live Toy Physics | [prompt](prompts/landing-pages/blockhaus/prompt.md) |
 | [Orrery](prompts/landing-pages/orrery) | Landing Page | Observatory | HTML, WebGL2, Particles | [prompt](prompts/landing-pages/orrery/prompt.md) |
 | [Brand New Day](prompts/landing-pages/brandnewday) | Landing Page | Scroll Film | React, Three.js, Scroll Film | [prompt](prompts/landing-pages/brandnewday/prompt.md) |

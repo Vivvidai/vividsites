@@ -1,7 +1,24 @@
 {
   "source": "https://www.vividsites.app",
-  "count": 30,
+  "count": 31,
   "prompts": [
+    {
+      "slug": "foldworld",
+      "title": "Foldworld",
+      "kind": "Template",
+      "category": "Pop-Up Portfolio",
+      "stack": [
+        "HTML",
+        "Three.js",
+        "Extruded Paper Props"
+      ],
+      "description": "The carousel pop-up book of a fictional paper engineer, laid open on a craft table as one live paper diorama. A teal cloth cover tied with a pink ribbon shows the book turning through a round die-cut window; untie it and the boards swing open like doors as the camera flies down into the first of six colour-blocked rooms. Scroll, drag or swipe to turn it chapter by chapter while hanging gulls and lanterns swing with the turn. Every cut-out prop has card thickness, wiggles under your cursor, hops when clicked and can unfold a paper card with its story. Built in HTML and Three.js, one file, no build step.",
+      "prompt": "prompts/landing-pages/foldworld/prompt.md",
+      "preview": "assets/previews/foldworld.webp",
+      "page": "https://www.vividsites.app/t/foldworld",
+      "live": "https://www.vividsites.app/api/preview/foldworld/index.html",
+      "chars": 133994
+    },
     {
       "slug": "blockhaus",
       "title": "Blockhaus",
